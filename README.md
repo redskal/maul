@@ -1,4 +1,3 @@
-![Dynamo logo](assets/logo.png)
 <p align="center"><a href="https://github.com/redskal/maul"><img alt="Maul Logo" src="assets/logo.png" width="50%" /></a></p>
 
 [![Go](https://goreportcard.com/badge/github.com/redskal/maul)](https://goreportcard.com/report/github.com/redskal/maul) 
